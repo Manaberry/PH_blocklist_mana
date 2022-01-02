@@ -24,7 +24,6 @@ e905.dscd.akamaiedge.net
 e924.a.akamaiedge.net
 e9959.e9.akamaiedge.net
 e905.e9.akamaiedge.net
-e673.dsce9.akamaiedge.net
 a1051.b.akamai.net
 a5.dscda1.akamai.net
 e2974.dscg.akamaiedge.net
