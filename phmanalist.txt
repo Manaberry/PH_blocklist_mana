@@ -28,3 +28,15 @@ a1051.b.akamai.net
 a5.dscda1.akamai.net
 e2974.dscg.akamaiedge.net
 e9117.dscg.akamaiedge.net
+tools.mouseflow.com
+cdn-test.mouseflow.com
+realtime.luckyorange.com
+fwtracks.freshmarketer.com
+claritybt.freshmarketer.com
+events.hotjar.io
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+adtech.yahooinc.com
+metrics2.data.hicloud.com
+samsung-com.112.2o7.net
